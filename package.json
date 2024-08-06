@@ -1,0 +1,48 @@
+{
+  "name": "animalacssjs",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@iconify/react": "^4.1.1",
+    "@supabase/supabase-js": "^2.37.0",
+    "@tanstack/react-query": "^4.35.7",
+    "@tanstack/react-query-devtools": "^4.35.7",
+    "buymeacoffee.js": "^2.0.0",
+    "firebase": "^10.4.0",
+    "html-react-parser": "^4.2.2",
+    "prism-react-renderer": "^2.1.0",
+    "react": "^18.2.0",
+    "react-animated-3d-card": "^1.0.2",
+    "react-color-extractor": "^1.1.2",
+    "react-confetti-explosion": "^2.1.2",
+    "react-country-flag": "^3.1.0",
+    "react-dom": "^18.2.0",
+    "react-html-parser": "^2.0.2",
+    "react-icons": "^4.11.0",
+    "react-iframe": "^1.8.5",
+    "react-lottie": "^1.2.3",
+    "react-router-dom": "^6.16.0",
+    "react-spinners": "^0.13.8",
+    "styled-components": "^6.0.8",
+    "supabase": "^1.99.5",
+    "sweetalert2": "^11.7.31",
+    "zustand": "^4.4.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "eslint": "^8.45.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "vite": "^4.4.5"
+  }
+}
